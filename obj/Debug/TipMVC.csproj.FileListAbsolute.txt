@@ -1,0 +1,8 @@
+C:\микса 11а\TipMVC\TipMVC\bin\Debug\TipMVC.exe.config
+C:\микса 11а\TipMVC\TipMVC\bin\Debug\TipMVC.exe
+C:\микса 11а\TipMVC\TipMVC\bin\Debug\TipMVC.pdb
+C:\микса 11а\TipMVC\TipMVC\obj\Debug\TipMVC.csproj.AssemblyReference.cache
+C:\микса 11а\TipMVC\TipMVC\obj\Debug\TipMVC.csproj.SuggestedBindingRedirects.cache
+C:\микса 11а\TipMVC\TipMVC\obj\Debug\TipMVC.csproj.CoreCompileInputs.cache
+C:\микса 11а\TipMVC\TipMVC\obj\Debug\TipMVC.exe
+C:\микса 11а\TipMVC\TipMVC\obj\Debug\TipMVC.pdb
